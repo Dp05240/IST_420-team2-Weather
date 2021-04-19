@@ -1,0 +1,15 @@
+ENDPOINT: https://empmduluk1.service-now.com/api/now/table/u_job_postings/e177c2a11b2360d098871f4d2b4bcb42
+
+HTTP Attrb: 
+
+{"u_job_title":"Brewer Manager",
+
+"u_company":"Balrog Brewing",
+
+"u_location":"Philadelphia",
+
+"u_description":"can be a bar brewing manager",
+
+"u_skills_needed":"customer service",
+
+"u_state":"Active"}
