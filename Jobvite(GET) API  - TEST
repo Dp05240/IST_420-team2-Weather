@@ -1,0 +1,8 @@
+ENDPOINT: https://empmduluk1.service-now.com/api/now/table/u_job_postings
+
+Authentication Required: None
+
+HTTP Headers:
+
+Name:  Accept.    / Value: application/json
+Name: Content-Type  / Value: application/json
