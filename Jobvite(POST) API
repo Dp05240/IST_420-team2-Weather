@@ -1,0 +1,15 @@
+ENDPOINT: https://empmduluk1.service-now.com/api/now/table/u_job_postings
+
+HTTP Attrb:
+
+{"u_job_title":"System Engineer",
+
+"u_company":"Balrog Brewing",
+
+"u_location":"San Diego",
+
+"u_description":"This is a job for a system engineer.  This job is bla bla bla",
+
+"u_skills_needed":"engineering stuff",
+
+"u_state":"Active"}
